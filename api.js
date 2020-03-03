@@ -1,4 +1,4 @@
-const api_key = "d81b376baa1c52b6b2d2a7619082cd38";
+const api_key = "your api key";
 const url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${api_key}`;
 
 // id, poster_path, backdrop_path,title, overview
